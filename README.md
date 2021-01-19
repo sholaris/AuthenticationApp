@@ -4,12 +4,16 @@
 1.0.0
 ## Usage
 ### Installation
-Install the dependencies
-```
+
+```bash
+# Install the required dependencies
 $ npm install
-```
-Run app
-```
-$ npm start
+$ cd ClientApp && npm install
+
+# Run React client
+$ cd ClientApp && npm start
+
+# Run Express server
+$ npm run server
 ```
 
